@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjnLOcfcxjOkUqZyE0T41d44WsVCCxV96/X1KHaxf2bsrvi1ue4qpuy71JgXRETk+Ia3W6icRbTdGJtqdIEHkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debra_2qm34gh\\source\\repos\\capstone7\\Core7appp\\Core7appp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debra_2qm34gh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\debra_2qm34gh\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
